@@ -4,7 +4,7 @@ This is a flask boilerplate for new Flask web applications created by Asiimwe Ed
 
 #What's included
 - User Authentication (SignUp, Login, Account verification with SMS and Email, Password Recovery)
-- 
+ 
 # <a name='installation-guide'>Installation Guide</a>
 
 This project requires the following tools:
