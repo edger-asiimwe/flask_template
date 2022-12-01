@@ -10,4 +10,4 @@ class User(db.Model):
     last_seen = db.Column(db.DateTime, default=datetime.utcnow)
 
     def __repr__(self) -> str:
-        return 'User {}'.format(self.username)
+        return 'User {}'.format(self.usernames)
