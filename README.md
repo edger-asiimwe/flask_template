@@ -20,8 +20,8 @@ To get started, install Python on your local computer if you don't have them alr
 **Step 1. Clone the code into a fresh folder**
 
 ```
-$ git clone https://github.com/edger-asiimwe/flasky.git
-$ cd 
+$ git clone https://github.com/edger-asiimwe/flask_template.git
+$ cd flask_template
 ```
 
 **Step 2. Create a Virtual Environment and install Dependencies.**
